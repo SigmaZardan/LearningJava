@@ -7,8 +7,8 @@ public class PrimeNumberOrNot {
 
         // well this code is still incomplete
         // cause this code cannot handle the input 2
-        // i will come with the solution tomorrow
-       // i gotta go to sleep now
+        // I will come with the solution tomorrow
+       // I have to go to sleep now
         // good night in the context and for the development of the country
         System.out.print("Enter a number:");
         int number = scanner.nextInt();
