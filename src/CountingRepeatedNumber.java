@@ -4,7 +4,7 @@ public class CountingRepeatedNumber {
 
 
         int ans = countingFunction(223523466,2);
-        System.out.printf("The occurence of the entered number:" + ans);
+        System.out.printf("The occurrence of the entered number:" + ans);
 
 
 
