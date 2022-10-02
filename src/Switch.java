@@ -17,5 +17,15 @@ public class Switch {
             default -> System.out.println("Please enter a valid fruit");
         }
 
+         // this is a case where the break statement is not used.
+        int day = scanner.nextInt();
+        switch(day){
+
+            case 1,2,3,4,5 -> System.out.println("WeekDay");
+            case 6,7 -> System.out.println("WeekEnd");
+            default -> System.out.println("Please enter a valid day!!");
+        }
+
+      // we ca also use the switch statement in a nested form;
     }
 }
